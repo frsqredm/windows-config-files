@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Gruvbox Dark Medium",
     "workbench.startupEditor": "none",
     "explorer.compactFolders": false,
-    "editor.fontFamily": "JetBrains Mono, monospace",
+    "editor.fontFamily": "JetBrainsMono Nerd Font, monospace",
     "editor.fontSize": 12.5,
     "files.autoSave": "onFocusChange",
     "update.showReleaseNotes": false,
