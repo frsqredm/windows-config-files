@@ -1,11 +1,35 @@
 {
-    "workbench.colorTheme": "Gruvbox Dark Medium",
-    "workbench.startupEditor": "none",
     "explorer.compactFolders": false,
+
     "editor.fontFamily": "JetBrainsMono Nerd Font, monospace",
     "editor.fontSize": 12.5,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "editor.minimap.autohide": true,
+
     "files.autoSave": "onFocusChange",
     "update.showReleaseNotes": false,
-    "editor.minimap.autohide": true,
-    "git.openRepositoryInParentFolders": "always"
+    
+    "git.openRepositoryInParentFolders": "always",
+
+    "colorize.languages": [
+        "javascript",
+        "html",
+        "json",
+        "jsonc",
+        "txt",
+        "plaintext",
+        "ruby",
+        "rust",
+        "css",
+        "sass"
+      ],
+    
+    "terminal.integrated.confirmOnExit": "hasChildProcesses",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Gruvcat Dark"
 }
